@@ -1,1 +1,1 @@
-# codecademy_backend
+# codecademy_projects
